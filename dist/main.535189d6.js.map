@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["doc","document","querySelector","innerHTML","console","log"],"mappings":";AAGA,IAAIA,EAAMC,SAASC,cAAc,QAEjCF,EAAIG,UAAY,8BAGhBC,QAAQC,IAAIL","file":"main.535189d6.js","sourceRoot":"..","sourcesContent":["\n\n\nlet doc = document.querySelector('main')\n\ndoc.innerHTML = 'En espana por via maritimo '\n\n\nconsole.log(doc)\n"]}
